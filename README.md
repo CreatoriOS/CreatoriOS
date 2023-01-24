@@ -1,4 +1,4 @@
-<img src-"https://c0.wallpaperflare.com/preview/725/29/216/united-states-orem-code-programming.jpg" width-"100%"> <br>
+<img src="https://c0.wallpaperflare.com/preview/725/29/216/united-states-orem-code-programming.jpg" />
 
 <h1 align="center">Hi 👋, I'm ZHansaya Bortanova</h1>
 <h3 align="center">A passionate junior iOS developer from Kazakhstan</h3>
