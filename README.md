@@ -1,4 +1,4 @@
-<img src="https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
+<img src="https://media.licdn.com/dms/image/D4D16AQEbtCQByM4JCA/profile-displaybackgroundimage-shrink_350_1400/0/1674598052268?e=1680134400&v=beta&t=47DDqnbCixGw7iA8oaVInmcEa_RickJnv8VZWBcrwmE">
 
 <h1 align="center">Hi 👋, I'm ZHansaya Bortanova</h1>
 <h3 align="center">A passionate junior iOS developer from Kazakhstan</h3>
