@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQEbtCQByM4JCA/profile-displaybackgroundimage-shrink_350_1400/0/1674598052268?e=1680134400&v=beta&t=47DDqnbCixGw7iA8oaVInmcEa_RickJnv8VZWBcrwmE">
 
 <h1 align="center">Hi 👋, I'm ZHansaya Bortanova</h1>
-<h3 align="center">A passionate junior iOS developer from Kazakhstan</h3>
+<h3 align="center">A passionate iOS developer from Kazakhstan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=creatorios&label=Profile%20views&color=0e75b6&style=flat" alt="creatorios" /> </p>
 
